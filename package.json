@@ -1,0 +1,17 @@
+{
+  "name": "end",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.9",
+    "request": "^2.88.0"
+  }
+}
