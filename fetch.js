@@ -23,6 +23,7 @@ class Fetch {
     }
 
     getGame( link ) {
+        debug('get game feed');
         return this.grab( this.url + link.replace('v1', 'v1.1') );
     }
 
